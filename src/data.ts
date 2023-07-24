@@ -47,36 +47,36 @@ export const menu = [
       // },
     ],
   },
-  // {
-  //   id: 3,
-  //   title: 'general',
-  //   listItems: [
-  //     {
-  //       id: 1,
-  //       title: 'Elements',
-  //       url: '/',
-  //       icon: 'element.svg',
-  //     },
-  //     {
-  //       id: 2,
-  //       title: 'Notes',
-  //       url: '/',
-  //       icon: 'note.svg',
-  //     },
-  //     {
-  //       id: 3,
-  //       title: 'Forms',
-  //       url: '/',
-  //       icon: 'form.svg',
-  //     },
-  //     {
-  //       id: 4,
-  //       title: 'Calendar',
-  //       url: '/',
-  //       icon: 'calendar.svg',
-  //     },
-  //   ],
-  // },
+  {
+    id: 3,
+    title: 'Single',
+    listItems: [
+      {
+        id: 1,
+        title: 'User',
+        url: '/users/1',
+        icon: 'user.svg',
+      },
+      {
+        id: 2,
+        title: 'Product',
+        url: '/products/1',
+        icon: 'product.svg',
+      },
+      // {
+      //   id: 3,
+      //   title: 'Forms',
+      //   url: '/',
+      //   icon: 'form.svg',
+      // },
+      // {
+      //   id: 4,
+      //   title: 'Calendar',
+      //   url: '/',
+      //   icon: 'calendar.svg',
+      // },
+    ],
+  },
   // {
   //   id: 4,
   //   title: 'Maintenance',
